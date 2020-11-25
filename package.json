@@ -1,0 +1,33 @@
+{
+  "name": "discord-account-gen",
+  "version": "1.6.0",
+  "description": "A very simple DiscordBot for dispensing Accounts",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "nodemon test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystaldevelopment/discord-account-gen.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "discordbot",
+    "account",
+    "dispenser"
+  ],
+  "author": "crystaldevelopment",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crystaldevelopment/discord-account-gen/issues"
+  },
+  "homepage": "https://github.com/crystaldevelopment/discord-account-gen#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
