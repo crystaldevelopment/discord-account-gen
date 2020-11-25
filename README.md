@@ -1,5 +1,5 @@
 ### ℹ
-## This project is under mainintenance! Will come back on 25. Nov. 2020
+## This project is under maintenance! Will come back on 25. Nov. 2020
 
 ## ❓ About
 This tool let your server's users to get accounts through a secure and advanced system.    
