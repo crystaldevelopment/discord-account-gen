@@ -1,0 +1,7 @@
+{
+  "token": "PLACE YOUR TOKEN HERE",
+  "prefix": "/",
+  "presence": "dnd",
+  "cooldown_in_ms": "150000",
+  "gen_channel_id": "UNDEFINED"
+}
