@@ -2,7 +2,15 @@
 ## This project is under maintenance! Will come back on 25. Nov. 2020
 
 ## ❓ About
-This tool let your server's users to get accounts through a secure and advanced system.    
+This tool let your server's users to get accounts through a secure and advanced system.   
+
+## ⚙️ Installation
+1. Run `npm install` in the account-generators folder
+2. Go in `settings.json` and replace `token` with your discord-bot-token.
+3. Run the program via `node app.js` or `npm start`
+4. Invite your bot using the URL displayed.
+5. Go to your genchannel and type in `/genchannel`
+6. Have fun with the Bot!
 
 ## ⚙️ How it works
 **Adding Accounts**  
