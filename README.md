@@ -1,5 +1,5 @@
 ### ℹ
-## This project is under maintenance! Will come back on 25. Nov. 2020
+## This project is under maintenance!
 
 ## ❓ About
 This tool let your server's users to get accounts through a secure and advanced system.   
@@ -14,7 +14,7 @@ This tool let your server's users to get accounts through a secure and advanced 
 
 ## ⚙️ How it works
 **Adding Accounts**  
-You can add account to your servide through the command `/addone` followed by the service and then the username and password in this syntax: username:password
+You can add account to your service through the command `/addone` followed by the service and then the username and password in this syntax: username:password
   
 **Receiving accounts**  
 The user needs just to run the command `/gen` followed by the service's name and he will receive the account in DM.  
